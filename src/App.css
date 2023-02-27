@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.taskcontainer{
+  background-color: #192438;
+  color: white;
+  
+
+}
+.container1{
+  display: grid;
+  text-align: left;
+}
+.card{
+  background-color: #192438;
+  margin-top: 10px;
+  width:  18rem 140px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.formTaskbody{
+  display: flex;
+}
+.formTaskbody input,button{
+  margin-left: 10px;
+}
